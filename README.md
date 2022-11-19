@@ -1,4 +1,7 @@
 # Facebook Market-Place's Recommendation Ranking System Documentation
+
+This project aims to emulate the system used by Facebook Market-Place's Recommendation Ranking System. By doing so I aim to learn about Machine learning techniques.
+
 Technologies used:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -9,9 +12,11 @@ Technologies used:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-> Include here a brief description of the project, what technologies are used etc.
 
-## Milestone 1
+
+## Milestone 1, 2 & 3 - Setting up the environment and exploring the dataset
+
+
 
 - Answer some of these questions in the next few bullet points. What have you built? What technologies have you used? Why have you used those?
 
