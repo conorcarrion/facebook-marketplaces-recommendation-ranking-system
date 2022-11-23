@@ -1,9 +1,6 @@
 from PIL import Image
 import os
 
-def clean_image_data():
-    pass
-
 def resize_image(final_size, im):
     size = im.size
     ratio = float(final_size) / max(size)
